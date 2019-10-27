@@ -1,2 +1,5 @@
 # testrep
-Test Rep
+Test
+This text is **bold**.
+This text is *italic*.
+
